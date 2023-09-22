@@ -34,4 +34,4 @@ set fillchars=vert:/
 set fillchars=stl:/
 set fillchars=stlnc:/
 
-inoremap jk <esc>
+inoremap vv <esc>
